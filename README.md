@@ -1,6 +1,7 @@
 # 🌐 Portfolio Website
 
-![Portfolio Website Screenshot](![image](https://github.com/rahil1202/portfolio/assets/104057403/efecf9ce-adc0-439d-9f00-550127b6c34f))
+![image](https://github.com/rahil1202/portfolio/assets/104057403/555832fb-da66-48a3-a49d-75fedb7d9fca)
+
 
 Welcome to the GitHub repository of my Portfolio Website built using HTML, CSS, and JavaScript. This project is a personal portfolio website that showcases my skills, projects, and experiences in web development.
 
