@@ -29,13 +29,13 @@ Check out the live demo of my Portfolio Website ➡️ [Live Demo](https://rahil
 
 1. Clone the repository:
    ```
-   git clone https://github.com/your-username/portfolio-website.git
+   git clone https://github.com/your-username/portfolio.git
    ```
 
 2. Navigate to the project directory:
    ```
-   cd portfolio-website
-   ```
+   cd portfolio
+   ```    
 
 3. Open `index.html` in your web browser to view the portfolio website.
 
