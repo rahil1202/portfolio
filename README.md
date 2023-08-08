@@ -25,19 +25,4 @@ Check out the live demo of my Portfolio Website ➡️ [Live Demo](https://rahil
 
 
 
-## 🛠️ Installation
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/portfolio.git
-   ```
-
-2. Navigate to the project directory:
-   ```
-   cd portfolio
-   ```    
-
-3. Open `index.html` in your web browser to view the portfolio website.
-
-
 Thank you for visiting my Portfolio Website project! I hope you find it informative and get a sense of my skills and experiences as a web developer.
